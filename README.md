@@ -1,6 +1,8 @@
 # systemlogparser_cli_schedule
 This script is designed to automate the process of running a system log parser tool (SLP), analyzing ArcGIS Server logs, and generating comprehensive reports. 
 
+This script is in response to running https://github.com/Esri/SystemLogParser
+
 You run the scripts in order of the numbering on the title. 
 
 Here’s a description for the script that you can use on GitHub:
