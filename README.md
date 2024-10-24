@@ -67,4 +67,3 @@ Users will need to update:
 
 ---
 
-This description should give users a clear understanding of the purpose and functionality of the script. Let me know if you'd like to adjust any part of it!
